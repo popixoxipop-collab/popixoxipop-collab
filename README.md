@@ -14,19 +14,19 @@
   <img src="./assets/rainbow-tech-spectrum.svg" alt="Design, Embedded, AI, LLM, Frontend, and API tech stack — decorative categories, not activity metrics" width="100%" />
 </p>
 
-<details>
-<summary><strong>🌈 Git Rainbow — 기술별 GitHub 활동 달력</strong> (외부 서비스)</summary>
-
-최근 1년간 기술스택별 GitHub 활동을 색상으로 보여주는 [Git Rainbow](https://github.com/git-rainbow/git-rainbow) 위젯입니다. 그래프의 생성·갱신은 외부 서비스 상태에 따라 달라집니다.
+### 📅 최근 1년 GitHub 활동 — 레인보우 캘린더
 
 <p align="center">
-  <a href="https://git-rainbow.com/popixoxipop-collab">Git Rainbow 분석 페이지 열기</a>
-</p>
-<p align="center">
-  <img src="https://git-rainbow.com/popixoxipop-collab/svg" alt="Git Rainbow tech-stack contribution calendar (available only while the external service responds)" width="100%" />
+  <a href="./assets/rainbow-contributions.svg">
+    <img src="./assets/rainbow-contributions.svg" alt="최근 1년간 GitHub 기여 활동 — 실제 날짜별 기여 기록을 레인보우 색상으로 표시" width="100%" />
+  </a>
 </p>
 
-</details>
+GitHub가 공개 프로필에 표시하는 **실제 날짜별 기여 수**를 바탕으로 만들었으며, **매일 12:17 KST에 자동 갱신**하도록 설정했습니다. 색상은 요일별 무지개색이며 진하기는 GitHub 활동 수준을 나타냅니다. 비공개 기여 공개 설정은 GitHub 계정 설정을 따릅니다.
+
+[📊 GitHub 기본 기여 그래프에서 보기](https://github.com/popixoxipop-collab) · [🔍 활동표 확대해서 보기](./assets/rainbow-contributions.svg)
+
+
 
 ### 🛠 관심·보유 기술
 
