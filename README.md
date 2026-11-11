@@ -35,10 +35,6 @@ GitHub가 공개 프로필에 표시하는 **실제 날짜별 기여 수**를 �
 - **AI/데이터**: Python · LLM Agent(LangGraph·LangSmith) · 데이터 분석
 - **웹**: React · Vite · REST · OpenAI API
 
-### 📂 대표 포트폴리오
-
-- **[popixoxipop-collab/Portfolio](https://github.com/popixoxipop-collab/Portfolio)** — 기계공학 12분야 + AI/데이터 4분야(16개 프로젝트). 각 프로젝트를 *문제→방법→결과* 구조로 정리.
-
 ### 📫 연락처
 
 - Email: popixoxipop@gmail.com
